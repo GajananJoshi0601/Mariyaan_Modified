@@ -31,10 +31,13 @@
 <p>Below are some screenshots of the Mariyaan Restaurant website:</p>
 
 <!-- Image 1 -->
-<img src="path/to/your/image1.png" alt="Screenshot 1" style="width:100%; max-width:600px;">
+<img src="./SS/ss-1" alt="Screenshot 1" style="width:100%; max-width:600px;">
 
 <!-- Image 2 -->
-<img src="path/to/your/image2.png" alt="Screenshot 2" style="width:100%; max-width:600px;">
+<img src="./SS/ss-2" alt="Screenshot 2" style="width:100%; max-width:600px;">
+<img src="./SS/ss-3" alt="Screenshot 2" style="width:100%; max-width:600px;">
+<img src="./SS/ss-4" alt="Screenshot 2" style="width:100%; max-width:600px;">
+<img src="./SS/ss-5" alt="Screenshot 2" style="width:100%; max-width:600px;">
 
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! If you have any ideas, suggestions, or improvements, please follow these steps:</p>
